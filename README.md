@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KirtiPant/LeetCode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/KirtiPant/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KirtiPant/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/KirtiPant/LeetCode/tree/master/0136-single-number) |
 | [0940-fruit-into-baskets](https://github.com/KirtiPant/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KirtiPant/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KirtiPant/LeetCode/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KirtiPant/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
