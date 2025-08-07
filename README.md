@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KirtiPant/LeetCode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/KirtiPant/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KirtiPant/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
