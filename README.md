@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KirtiPant/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/KirtiPant/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/KirtiPant/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KirtiPant/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KirtiPant/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KirtiPant/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/KirtiPant/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
