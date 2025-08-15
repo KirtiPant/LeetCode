@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/KirtiPant/LeetCode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/KirtiPant/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/KirtiPant/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KirtiPant/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KirtiPant/LeetCode/tree/master/0342-power-of-four) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KirtiPant/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/KirtiPant/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Bit Manipulation
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/KirtiPant/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
