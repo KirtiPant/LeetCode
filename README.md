@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/KirtiPant/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/KirtiPant/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KirtiPant/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KirtiPant/LeetCode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/KirtiPant/LeetCode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1395-minimum-time-visiting-all-points](https://github.com/KirtiPant/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/KirtiPant/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KirtiPant/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/KirtiPant/LeetCode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/KirtiPant/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 ## Divide and Conquer
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KirtiPant/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KirtiPant/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KirtiPant/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KirtiPant/LeetCode/tree/master/0342-power-of-four) |
 ## Probability and Statistics
 |  |
 | ------- |
