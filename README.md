@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtiPant/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/KirtiPant/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/KirtiPant/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/KirtiPant/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KirtiPant/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiPant/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/KirtiPant/LeetCode/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KirtiPant/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -171,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KirtiPant/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
