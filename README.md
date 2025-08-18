@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KirtiPant/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KirtiPant/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KirtiPant/LeetCode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/KirtiPant/LeetCode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/KirtiPant/LeetCode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/KirtiPant/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/KirtiPant/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KirtiPant/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0679-24-game](https://github.com/KirtiPant/LeetCode/tree/master/0679-24-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/KirtiPant/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/KirtiPant/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KirtiPant/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KirtiPant/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KirtiPant/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/KirtiPant/LeetCode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
