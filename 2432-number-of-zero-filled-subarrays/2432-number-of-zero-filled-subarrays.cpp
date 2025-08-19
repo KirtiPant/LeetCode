@@ -2,13 +2,13 @@ class Solution {
 public:
     long long zeroFilledSubarray(vector<int>& nums) {
         long long ans = 0; 
-        long long c = 0; 
-        for (int x : nums) {
-            if (x == 0) {
-                c++;         
-                ans += c;      
+        long long n = 0; 
+        for (int i : nums) {
+            if (i == 0) {
+                n++;         
+                ans += n;      
             } else {
-                c = 0; 
+                n = 0; 
             }
         }
         return ans;
