@@ -191,8 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KirtiPant/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KirtiPant/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
 | [0679-24-game](https://github.com/KirtiPant/LeetCode/tree/master/0679-24-game) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
