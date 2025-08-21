@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3790-fruits-into-baskets-ii](https://github.com/KirtiPant/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -205,10 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/KirtiPant/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/KirtiPant/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
