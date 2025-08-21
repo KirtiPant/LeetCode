@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KirtiPant/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/KirtiPant/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/KirtiPant/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KirtiPant/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KirtiPant/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/KirtiPant/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Bit Manipulation
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KirtiPant/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/KirtiPant/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
