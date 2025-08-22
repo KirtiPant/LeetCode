@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KirtiPant/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KirtiPant/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KirtiPant/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/KirtiPant/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/KirtiPant/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/KirtiPant/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/KirtiPant/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
