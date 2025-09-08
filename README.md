@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/KirtiPant/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1395-minimum-time-visiting-all-points](https://github.com/KirtiPant/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/KirtiPant/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/KirtiPant/LeetCode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KirtiPant/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/KirtiPant/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
