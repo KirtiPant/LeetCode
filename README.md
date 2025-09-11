@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/KirtiPant/LeetCode/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/KirtiPant/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/KirtiPant/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/KirtiPant/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2887-sort-vowels-in-a-string](https://github.com/KirtiPant/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
 | ------- |
