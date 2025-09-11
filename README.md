@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KirtiPant/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KirtiPant/LeetCode/tree/master/0229-majority-element-ii) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/KirtiPant/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiPant/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/KirtiPant/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/KirtiPant/LeetCode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/KirtiPant/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KirtiPant/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/KirtiPant/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/KirtiPant/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/KirtiPant/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
