@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/KirtiPant/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/KirtiPant/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/KirtiPant/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/KirtiPant/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KirtiPant/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/KirtiPant/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/KirtiPant/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/KirtiPant/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/KirtiPant/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KirtiPant/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/KirtiPant/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/KirtiPant/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/KirtiPant/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/KirtiPant/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KirtiPant/LeetCode/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/KirtiPant/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/KirtiPant/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1612-avoid-flood-in-the-city](https://github.com/KirtiPant/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KirtiPant/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/KirtiPant/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/KirtiPant/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Quickselect
 |  |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KirtiPant/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/KirtiPant/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/KirtiPant/LeetCode/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/KirtiPant/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/KirtiPant/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Geometry
 |  |
